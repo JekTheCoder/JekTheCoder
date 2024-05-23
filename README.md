@@ -1,4 +1,4 @@
-# Hi 👋 My name is Jeshua Hinostroza
+# Hello 👋 I am Jeshua Hinostroza
 
 I am a FullStack Developer who likes to learn new technologies and languages, it feels like getting a new toy.
 One day I am creating websites, the other day I am CLI, game, or any other challenge, I pursue what brings me joy.
@@ -24,6 +24,7 @@ One day I am creating websites, the other day I am CLI, game, or any other chall
 </p>
 
 ### Frontend
+
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -35,6 +36,20 @@ One day I am creating websites, the other day I am CLI, game, or any other chall
 </p>
 
 ### Other
+
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="docker" /></a>
+    <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+### Socials
+
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/jeshua-hinostroza" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+        </picture> 
+    </a>
 </p>
